@@ -1198,7 +1198,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #d1ffbf;
+  background: #69b1ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1930,6 +1930,7 @@ pre .javascript .function {
 .post-tags a {
   display: inline-block;
   font-size: 0.8125em;
+  color: #222;
 }
 .post-tags a:not(:last-child) {
   margin-right: 10px;
